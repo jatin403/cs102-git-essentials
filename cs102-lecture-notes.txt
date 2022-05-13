@@ -3,3 +3,5 @@ git add [filename] : adds the mentioned file in queue to be committed
 git commit -m "phrase" : commits the changes w the phrase as remark
 git push : pushes the changes to the server
 git log : shows logs of all commits in current repository
+
+lecture summary - first we talked about the lab question. then the discussion focused on visual studio and it's  benefits. it's very convinient software since it provides various plugins to use. talked about markdwon language which helps in creating simple interactive text webpages. wikipedia itself uses some form of markdown lang. 
