@@ -1,0 +1,5 @@
+git status : tells about status of the files in ur repository
+git add [filename] : adds the mentioned file in queue to be committed
+git commit -m "phrase" : commits the changes w the phrase as remark
+git push : pushes the changes to the server
+git log : shows logs of all commits in current repository
